@@ -2,7 +2,7 @@
 
 
 1. Реализован класс Stack  (stack.py) с заданными методами:
-isEmpty, push, pop, peek, size.
+is_empty, push, pop, peek, size.
 
 2. Используя стек из задания 1 реализована функция для решения задачи 
 на проверку сбалансированности скобок (check_brackets.py)
